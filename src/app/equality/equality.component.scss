@@ -1,0 +1,28 @@
+form {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    font-size: 90px;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 90px;
+    width: 20%;
+    text-align: center;
+}
+
+input:focus {
+    outline: none;
+}
+
+.correctAnswers {
+    font-size: 30px;
+    position: absolute;
+    left: 450px;
+    right: 0;
+    bottom: 420px;
+    text-align: center;
+
+}
