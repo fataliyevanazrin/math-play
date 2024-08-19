@@ -23,8 +23,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/same-letter.git
-    cd same-letter
+    git clone https://github.com/your-username/math-play.git
+    cd math-play
     ```
 
 2. **Install the dependencies:**
